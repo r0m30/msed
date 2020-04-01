@@ -2,4 +2,4 @@
 
 All future development will be via the DTA
 For current versions of SED software please see
-Drive-Trust-Alliance/sedutil
+[Drive-Trust-Alliance/sedutil](//github.com/Drive-Trust-Alliance/sedutil)
